@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.indiv{
+    
+    margin-left: 50px;
+
+}
+.enter{
+    margin-right: 20px;
+}
